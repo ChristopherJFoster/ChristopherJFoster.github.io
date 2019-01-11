@@ -143,7 +143,6 @@ nav a {
 }
 
 .main-content-services {
-	/* Negative horizontal margin for container was the best solution I could find to get a margin in between each .service-item and _not_ have margins at the beginning and end of each row. */
 	margin: 20px 0;
 	padding-bottom: 20px;
 	display: flex;
